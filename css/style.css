@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+nav {
+    font-size: 1.2 em;
+    font-weight: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
